@@ -1,3 +1,8 @@
+"""
+Author: Bisnu Ray
+Telegram: https://t.me/SmartBisnuBio
+"""
+
 import logging
 import pprint
 import google.generativeai as palm
