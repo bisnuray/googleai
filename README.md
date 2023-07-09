@@ -20,13 +20,12 @@ This repository contains the source code for a simple Telegram bot that uses the
 1. Clone the repository:
 
    `````
-   git clone https://github.com/yourusername/palm-telegram-bot.git
-   ```
+   git clone https://github.com/bisnuray/googleai/
 
 2. Change the current directory:
 
    ````
-   cd palm-telegram-bot
+   cd googleai
    ````
 
 3. Install the required Python packages:
